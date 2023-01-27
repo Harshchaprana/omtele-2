@@ -1,0 +1,110 @@
+[
+
+   
+          { "id":"1",
+            "productName": "Iphone 12 ",
+            "category": "Iphone",
+            "price": "6000",
+            "image": "/img/iphones/ip 12.jpg",
+            "display": "6999"
+            
+    
+          },
+          { "id":"2",
+            "productName": "Iphone 13 , pro",
+            "category": "Iphone",
+            "price": "1000",
+            "image": "/img/iphones/ip 13 pro.jpg"
+    
+          },
+    
+          {  "id":"3", 
+            "productName": "Iphone 14 pro , Max ",
+            "category": "Iphone",
+            "price": "1000",
+            "image": "/img/iphones/ip 14  pro max.jpg"
+        
+    
+          },
+    
+          { "id":"4",
+            "productName": "Iphone 11",
+            "category": "Iphone",
+            "price": "1000",
+            "image": "/img/iphones/ip 11.jpg"
+          
+    
+          },
+    
+          { "id":"5",
+            "productName": "Iphone 11 pro, max",
+            "category": "Iphone",
+            "price": "1000",
+            "image": "/img/iphones/ip 11.jpg"
+    
+          },
+    
+          { "id":"6",
+            "productName": "Iphone X ",
+            "category": "Iphone",
+            "price": "1000",
+            "image": "/img/iphones/iPhone_X_.jpg"
+        
+          },
+    
+          { "id":"7",
+            "productName": "Iphone Xs , Max",
+            "category": "Iphone",
+            "price": "1000",
+            "image": "/img/iphones/ip xs max.jpg"
+         
+    
+          },
+    
+          
+          { "id":"8",
+            "productName": "Iphone 8 ",
+            "category": "Iphone",
+            "price": "1000",
+            "image": "/img/iphones/ip 8  , se2.jpg"
+         
+          },
+    
+          
+          { "id":"9",
+            "productName": "Iphone 8 Plus",
+            "category": "Iphone",
+            "price": "1000",
+            "image": "/img/iphones/iPhone8+.jpg"
+          
+          },
+    
+          
+          { "id":"10",
+            "productName": "Iphone SE 2",
+            "category": "Iphone",
+            "price": "1000",
+            "image": "/img/iphones/ip 8  , se2.jpg"
+           
+          },
+    
+          
+          { "id":"11",
+            "productName": "Iphone 7",
+            "category": "Iphone",
+            "price": "1000",
+            "image": "/img/iphones/apple-iphone-7-, 6.jpg"
+           
+    
+          },
+    
+          
+          { "id":"12",
+            "productName": "Iphone 7 Plus",
+            "category": "Iphone",
+            "price": "1000",
+            "image": "/img/iphones/iphone-7-plus-.jpg"
+    
+          }
+    
+        ]    

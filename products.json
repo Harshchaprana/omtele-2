@@ -1,0 +1,100 @@
+[
+    {
+    "featured":true,
+    "name": "Iphone 12 ",
+    "company": "apple",
+    "price": 6000
+    
+    
+
+  },
+  {
+    "featured":true,
+    "name": "Iphone 13 , pro",
+    "company": "apple",
+    "price": 1000
+   
+
+  },
+
+  {
+    "name": "Iphone 14 pro , Max ",
+    "company": "apple",
+    "price": 1000
+
+
+  },
+
+  {
+    "name": "Iphone 11",
+    "company": "apple",
+    "price": 1000
+
+  },
+
+  {
+    "name": "Iphone 11 pro, max",
+    "company": "apple",
+    "price": 1000
+   
+
+  },
+
+  {
+    "featured":true,
+    "name": "Iphone X",
+    "company": "apple",
+    "price": 1000
+
+  },
+
+  {
+    "name": "Iphone Xs , Max",
+    "company": "apple",
+    "price": 1000
+ 
+
+  },
+
+  
+  {
+    "name": "Iphone 8 ",
+    "company": "apple",
+    "price": 1000
+ 
+  },
+
+  
+  {
+    "name": "Iphone 8 Plus",
+    "company": "apple",
+    "price": 1000
+
+  },
+
+  
+  {
+    "name": "Iphone SE 2",
+    "company": "apple",
+    "price": 1000
+
+  },
+
+  
+  {
+    "name": "Iphone 7",
+    "company": "apple",
+    "price": 1000
+   
+
+  },
+
+  
+  {
+    "name": "Iphone 7 Plus",
+    "company": "apple",
+    "price": 1000
+
+  }
+
+] 
